@@ -1,0 +1,54 @@
+﻿{
+  // Including both portable and netstandard1.3 with System.ComponentModel.Annotations
+  // causes NuGet install for csproj-based project with error:
+  // Failed to add reference to 'System.Collections'. Please make sure that it is in the Global Assembly Cache.
+
+  // Commenting out the portable framework will eliminate the error
+
+  //"version": "1.0.0-netcore",
+  "version": "1.0.0-multi",
+
+  "frameworks": {
+    ".NETPortable,Version=v4.5,Profile=Profile111": {
+      "buildOptions": {
+        "define": [ "PORTABLE111" ]
+      },
+      "frameworkAssemblies": {
+        "Microsoft.CSharp": "",
+        "System": "",
+        "System.Collections": "",
+        "System.ComponentModel": "",
+        "System.Core": "",
+        "System.Diagnostics.Debug": "",
+        "System.Dynamic.Runtime": "",
+        "System.Globalization": "",
+        "System.IO": "",
+        "System.Linq": "",
+        "System.Linq.Expressions": "",
+        "System.ObjectModel": "",
+        "System.Reflection": "",
+        "System.Reflection.Extensions": "",
+        "System.Resources.ResourceManager": "",
+        "System.Runtime": "",
+        "System.Runtime.Extensions": "",
+        "System.Runtime.Serialization": "",
+        "System.Runtime.Serialization.Xml": "",
+        "System.Runtime.Serialization.Primitives": "",
+        "System.Text.Encoding": "",
+        "System.Text.Encoding.Extensions": "",
+        "System.Text.RegularExpressions": "",
+        "System.Threading": "",
+        "System.Threading.Tasks": "",
+        "System.Xml": "",
+        "System.Xml.Linq": "",
+        "System.Xml.ReaderWriter": "",
+        "System.Xml.XDocument": ""
+      }
+    },
+    "netstandard1.3": {
+      "dependencies": {
+        "System.ComponentModel.Annotations": "4.1.0-rc2-24027"
+      }
+    }
+  }
+}

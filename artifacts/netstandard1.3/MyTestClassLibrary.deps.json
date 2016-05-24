@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v1.3/",
+    "signature": "2940ebc276fe77cc73cd2f291bba860a32f2bd56"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v1.3": {},
+    ".NETStandard,Version=v1.3/": {
+      "MyTestClassLibrary/1.0.0-multi": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.1.0-rc2-24027"
+        },
+        "runtime": {
+          "MyTestClassLibrary.dll": {}
+        }
+      },
+      "System.ComponentModel/4.0.1-rc2-24027": {
+        "dependencies": {
+          "System.Runtime": "4.1.0-rc2-24027"
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.ComponentModel.dll": {}
+        }
+      },
+      "System.ComponentModel.Annotations/4.1.0-rc2-24027": {
+        "dependencies": {
+          "System.ComponentModel": "4.0.1-rc2-24027",
+          "System.Runtime": "4.1.0-rc2-24027"
+        }
+      },
+      "System.Runtime/4.1.0-rc2-24027": {}
+    }
+  },
+  "libraries": {
+    "MyTestClassLibrary/1.0.0-multi": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ComponentModel/4.0.1-rc2-24027": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6ne+Yk/6J59NZ19jiKjxwRPS2VIofrps2xkGDxMpyiHzEk4xpIY0kzt0ZABvTpdOYpvOw7bz2Ls2/X0QiuSjQg=="
+    },
+    "System.ComponentModel.Annotations/4.1.0-rc2-24027": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BRJ7eUoaukLaxXlaVIOr7SKXQoF6ie54eCTTiWwp8NdIWirlOfPUQUFANPjcosDvKcUQLXksCiH8Wkj7ApRkQw=="
+    },
+    "System.Runtime/4.1.0-rc2-24027": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sDyyCeXycMSiNP4z1wyeyXlZSb26/OXIAwqnDsOAjw9PL3r8OgDRJgt4SH6Qid5z6E5IEGTKwjBjrHJGoa8bag=="
+    }
+  }
+}

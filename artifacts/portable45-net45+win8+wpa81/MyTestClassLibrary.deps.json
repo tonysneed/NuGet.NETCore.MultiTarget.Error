@@ -1,0 +1,229 @@
+{
+  "runtimeTarget": {
+    "name": ".NETPortable,Version=v4.5,Profile=Profile111/",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETPortable,Version=v4.5,Profile=Profile111": {},
+    ".NETPortable,Version=v4.5,Profile=Profile111/": {
+      "MyTestClassLibrary/1.0.0-multi": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.0.0.0",
+          "System": "4.0.0.0",
+          "System.Collections": "4.0.0.0",
+          "System.ComponentModel": "4.0.0.0",
+          "System.Core": "4.0.0.0",
+          "System.Diagnostics.Debug": "4.0.0.0",
+          "System.Dynamic.Runtime": "4.0.0.0",
+          "System.Globalization": "4.0.0.0",
+          "System.IO": "4.0.0.0",
+          "System.Linq": "4.0.0.0",
+          "System.Linq.Expressions": "4.0.0.0",
+          "System.ObjectModel": "4.0.0.0",
+          "System.Reflection": "4.0.0.0",
+          "System.Reflection.Extensions": "4.0.0.0",
+          "System.Resources.ResourceManager": "4.0.0.0",
+          "System.Runtime": "4.0.0.0",
+          "System.Runtime.Extensions": "4.0.0.0",
+          "System.Runtime.Serialization": "4.0.0.0",
+          "System.Runtime.Serialization.Xml": "4.0.0.0",
+          "System.Runtime.Serialization.Primitives": "4.0.0.0",
+          "System.Text.Encoding": "4.0.0.0",
+          "System.Text.Encoding.Extensions": "4.0.0.0",
+          "System.Text.RegularExpressions": "4.0.0.0",
+          "System.Threading": "4.0.0.0",
+          "System.Threading.Tasks": "4.0.0.0",
+          "System.Xml": "4.0.0.0",
+          "System.Xml.Linq": "4.0.0.0",
+          "System.Xml.ReaderWriter": "4.0.0.0",
+          "System.Xml.XDocument": "4.0.0.0"
+        },
+        "runtime": {
+          "MyTestClassLibrary.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.0.0.0": {},
+      "System/4.0.0.0": {},
+      "System.Collections/4.0.0.0": {},
+      "System.ComponentModel/4.0.0.0": {},
+      "System.Core/4.0.0.0": {},
+      "System.Diagnostics.Debug/4.0.0.0": {},
+      "System.Dynamic.Runtime/4.0.0.0": {},
+      "System.Globalization/4.0.0.0": {},
+      "System.IO/4.0.0.0": {},
+      "System.Linq/4.0.0.0": {},
+      "System.Linq.Expressions/4.0.0.0": {},
+      "System.ObjectModel/4.0.0.0": {},
+      "System.Reflection/4.0.0.0": {},
+      "System.Reflection.Extensions/4.0.0.0": {},
+      "System.Resources.ResourceManager/4.0.0.0": {},
+      "System.Runtime/4.0.0.0": {},
+      "System.Runtime.Extensions/4.0.0.0": {},
+      "System.Runtime.Serialization/4.0.0.0": {},
+      "System.Runtime.Serialization.Xml/4.0.0.0": {},
+      "System.Runtime.Serialization.Primitives/4.0.0.0": {},
+      "System.Text.Encoding/4.0.0.0": {},
+      "System.Text.Encoding.Extensions/4.0.0.0": {},
+      "System.Text.RegularExpressions/4.0.0.0": {},
+      "System.Threading/4.0.0.0": {},
+      "System.Threading.Tasks/4.0.0.0": {},
+      "System.Xml/4.0.0.0": {},
+      "System.Xml.Linq/4.0.0.0": {},
+      "System.Xml.ReaderWriter/4.0.0.0": {},
+      "System.Xml.XDocument/4.0.0.0": {}
+    }
+  },
+  "libraries": {
+    "MyTestClassLibrary/1.0.0-multi": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Collections/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ComponentModel/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Core/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Diagnostics.Debug/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Dynamic.Runtime/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Globalization/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.IO/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Linq/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Linq.Expressions/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.ObjectModel/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Reflection/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Reflection.Extensions/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Resources.ResourceManager/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.Extensions/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.Serialization/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.Serialization.Xml/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.Serialization.Primitives/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Text.Encoding/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Text.Encoding.Extensions/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Text.RegularExpressions/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Threading/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Threading.Tasks/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Xml/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Xml.Linq/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Xml.ReaderWriter/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Xml.XDocument/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
