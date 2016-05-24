@@ -6,6 +6,7 @@
   // Commenting out the portable framework will eliminate the error
 
   //"version": "1.0.0-netcore",
+  //"version": "1.0.0-portable",
   "version": "1.0.0-multi",
 
   "frameworks": {
